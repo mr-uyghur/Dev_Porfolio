@@ -1,16 +1,14 @@
 {
     "social": [
-        {
-            "network" : "linkedin",
-            "href": "https://linkedin.com/"
-        },
+  
         {
             "network" : "github",
-            "href": "https://github.com/mayankagarwal09"
+            "href": "https://github.com/mr-uyghur"
         },
         {
             "network" : "email",
-            "href": "mailto:test@test.com"
+            "href": "ali.halmamat.job@gmail.com"
         }
     ]
 }
+

@@ -1,5 +1,4 @@
 {
-    "about": " This is where you can describe about **yourself**. The more you describe about yourself, the better it is!\n\n\nExtra Information about you, like hobbies and your goals.\nExample Paragraph: I am passionate about my work. Because I love what I do, I have a steady source of motivation that drives me to do my best. In my last job, this passion led me to challenge myself daily and learn new skills that helped me to do better work. For example, I taught myself how to use Photoshop to improve the quality of our photos and graphics. I soon became the go-to person for any design needs.",
-    "imageSource": "images/about/profile.png"
-    
+    "about": " Hello! I'm Ali Imran Halmamat, a dedicated full stack developer with a passion for crafting end-to-end digital solutions. With over 5 years of experience under my belt, I've honed my skills in  'React, Node.js, Django and MongoDB', ensuring that both the front and back ends of any application I build are seamless, efficient, and robust. Beyond the code, I pride myself on my ability to communicate effectively with teams and stakeholders, always ensuring that technical jargon is translated into clear, actionable insights. In my downtime, I enjoy reading, going to the gym, learning new technologies and self development in general. If you're looking for a developer who's as enthusiastic about clean code as they are about effective collaboration, let's chat!",
+    "imageSource": "images/about/profile1.jpg"
 }

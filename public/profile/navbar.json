@@ -1,5 +1,5 @@
 {
-    "logo" : {
+    "comment_futureUse_for_Logo" : {
         "source": "images/logo.png",
         "height" : 45,
         "width" : 50
@@ -26,7 +26,7 @@
             "href": "/experience"
         },
         {
-            "title": "Projects",
+            "future_projects_Title": "Projects",
             "href": "/projects"
         },
         {
