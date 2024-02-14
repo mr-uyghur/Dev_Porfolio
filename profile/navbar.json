@@ -1,0 +1,41 @@
+{
+    "comment_futureUse_for_Logo" : {
+        "source": "images/logo.jpg",
+        "height" : 45,
+        "width" : 50
+    },
+    "sections": [
+        {
+            "title": "Home",
+            "href": "/"
+        },
+        {
+            "title": "About",
+            "href": "/about"
+        },
+        {
+            "title": "Skills",
+            "href": "/skills"
+        },
+        {
+            "title": "Education",
+            "href": "/education"
+        },
+      
+        {
+            
+            "title": "Projects", 
+            "href": "/projects"
+        },
+        {
+            "future_title": "Experience",
+            "href": "/experience"
+        },
+        {
+            "future_title": "Resume",
+            "href": "https://drive.google.com/file/d/1IFOdNr4qmEhnEvcg5pZXj_VBDcYRdlem/view?usp=sharing",
+            "type": "link"
+        }
+    ]
+
+}

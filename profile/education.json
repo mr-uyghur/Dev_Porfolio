@@ -1,0 +1,20 @@
+{
+    "education":[
+        {
+            "title": " 2022 - 2026",
+            "cardTitle": "Bachelors of science, Software Engineering",
+            "cardSubtitle":"San Jose State University",
+            "icon" : {
+                "src": "images/education/sjsu.png"
+            }
+        },
+        {
+            "title": " 2020 - 2021",
+            "cardTitle": "Full Stack Developer Certificate",
+            "cardSubtitle":"Technology Education Coding Dojo",
+            "icon" : {
+                "src": "images/education/coding_dojo.png"
+            }
+        }
+    ]
+}

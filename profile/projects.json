@@ -1,0 +1,25 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/quiet-hours-poster.jpg",
+            "title": "Coming soon",
+            "bodyText": "Description",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "code base link"
+                },
+                {
+                    "text": "Live",
+                    "href": "live app link"
+                }
+            ],
+            "tags" : [
+                "React",
+                "Portfolio",
+                "JavaScript"
+            ]
+        }
+       
+    ]
+}
