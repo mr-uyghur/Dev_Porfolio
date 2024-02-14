@@ -1,12 +1,19 @@
 {
     "education":[
         {
-            "title": "Jun 20XX - Jun 20YY",
-            "cardTitle": "B.Tech, Computer Science",
-            "cardSubtitle":"XYZ University, City",
-            "cardDetailedText": "CGPA - 9.5",
+            "title": " 2022 - 2026",
+            "cardTitle": "Bachelors of science, Software Engineering",
+            "cardSubtitle":"San Jose State University",
             "icon" : {
-                "src": "images/education/lorem-ipsum.png"
+                "src": "images/education/sjsu.png"
+            }
+        },
+        {
+            "title": " 2020 - 2021",
+            "cardTitle": "Full Stack Developer Certificate",
+            "cardSubtitle":"Technology Education Coding Dojo",
+            "icon" : {
+                "src": "images/education/coding_dojo.png"
             }
         }
     ]
